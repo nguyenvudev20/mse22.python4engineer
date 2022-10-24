@@ -7,7 +7,7 @@
 
 | Bài Tập | Tên File | Liên Kết|
 |------|:--------:|---------|
-| 1 | Bai_1_one_tutorial_to_understand_all_m5_forecasting.ipynb | [![AnVIL Image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nguyenvudev20/mse22.python4engineer/blob/main/Bai_1_one_tutorial_to_understand_all_m5_forecasting.ipynb)|
-| 2 | Bai_2_m5-eda.ipynb | [![AnVIL Image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nguyenvudev20/mse22.python4engineer/blob/main/Bai_2_m5-eda.ipynb)|
-| 3 | Bai_3_m5_forecasting_with_lstm_and_lightgbm.ipynb | [![AnVIL Image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nguyenvudev20/mse22.python4engineer/blob/main/Bai_3_m5_forecasting_with_lstm_and_lightgbm.ipynb)|
-| 4 | Assignment: Bai_Assignment.ipynb | [![AnVIL Image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nguyenvudev20/mse22.python4engineer/blob/main/Bai_Assignment.ipynb)|
+| 1 | <p align="left">Bai_1_one_tutorial_to_understand_all_m5_forecasting.ipynb </p> | [![AnVIL Image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nguyenvudev20/mse22.python4engineer/blob/main/Bai_1_one_tutorial_to_understand_all_m5_forecasting.ipynb)|
+| 2 | <p align="left">Bai_2_m5-eda.ipynb</p> | [![AnVIL Image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nguyenvudev20/mse22.python4engineer/blob/main/Bai_2_m5-eda.ipynb)|
+| 3 | <p align="left">Bai_3_m5_forecasting_with_lstm_and_lightgbm.ipynb</p> | [![AnVIL Image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nguyenvudev20/mse22.python4engineer/blob/main/Bai_3_m5_forecasting_with_lstm_and_lightgbm.ipynb)|
+| Assignment | <p align="left"> Bai_Assignment.ipynb</p> | [![AnVIL Image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nguyenvudev20/mse22.python4engineer/blob/main/Bai_Assignment.ipynb)|
