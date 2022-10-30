@@ -1,8 +1,8 @@
-# Môn học  : Python For Engineer - PPR501.2
-# Giáo viên: Thầy Nguyễn Thanh Hiên
-# Lớp      : MSE#11HCM
-# Học viên : Nguyễn Văn Vũ
-# Mã số    : 22MSE23053
+# Môn học   : Python For Engineer - PPR501.2
+# Giảng Viên: PGS TS Nguyễn Thanh Hiên
+# Lớp       : MSE#11HCM
+# Học viên  : Nguyễn Văn Vũ
+# Mã số     : 22MSE23053
 --
 
 | Bài Tập | Tên File | Liên Kết|
